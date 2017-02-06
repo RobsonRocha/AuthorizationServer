@@ -9,7 +9,7 @@
 		</layout>
 	</appender>
 	
-	<logger name="br.com.alis">
+	<logger name="br.com.example">
 		<level value="info" />
 	</logger>
 	
