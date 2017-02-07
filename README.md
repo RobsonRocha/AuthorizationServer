@@ -132,7 +132,7 @@ Na pasta target serão gerados vários arquivos, mas o pacote principal é gerado c
 
 ##Testes
 
-Para os testes foram utilizadas as bibliotecas TestNG.
+Para os testes foram utilizadas as bibliotecas [TestNG] (http://testng.org).
 Para executar os testes basta escrever na linha de comando abaixo com o sistema no ar.
 Inclusive os testes deixam o sistema populado com exemplos de perfis, usuários, associações e requisições.
 
